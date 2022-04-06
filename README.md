@@ -12,4 +12,4 @@ The above command opens testing session listing all the specs available in the p
 
 Sample run
 
-![](http://g.recordit.co/TgBuQ10pEz.gif)
+![](https://recordit.co/TgBuQ10pEz)
